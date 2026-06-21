@@ -32,8 +32,8 @@ Additional analog circuits were implemented to provide:
 # Final Product
 
 <p align="center">
-  <a href="images/final_product.jpg">
-    <img src="images/final_product.jpg" width="700">
+  <a href="photos/FinalResult_AnalogAudio.jpg">
+    <img src="photos/FinalResult_AnalogAudio.jpg" width="600">
   </a>
 </p>
 
@@ -42,8 +42,8 @@ Additional analog circuits were implemented to provide:
 # PCB Design
 
 <p align="center">
-  <a href="images/pcb_top.jpg">
-    <img src="images/pcb_top.jpg" width="700">
+  <a href="photos/AnanlogAudio_PCB.jpeg">
+    <img src="photos/AnanlogAudio_PCB.jpeg" width="600">
   </a>
 </p>
 
