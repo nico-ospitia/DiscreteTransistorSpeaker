@@ -108,18 +108,16 @@ The final housing was built entirely from LEGO components.
 # Repository Structure
 
 
-├── README.md
-├── LICENSE
-├── schematic/
-├── pcb/
-├── photos/
-   ├── FinalResult_AnalogAudio.jpg
-   ├── AnanlogAudio_PCB.jpeg
-   └── AnalogAudioPCB3D.jpeg
+* README.md
+* LICENSE
+* schematic/
+* pcb/
+* photos/
+
 
 ---
 
-# Author
+# Authors
 
 Nicolás Ospitia
 Catalina Muñoz
