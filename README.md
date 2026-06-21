@@ -94,8 +94,8 @@ The final housing was built entirely from LEGO components.
 # Demonstration Video
 
 <p align="center">
-  <a href="https://youtube.com/YOUR_VIDEO_LINK">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="700">
+  <a href="https://youtu.be/Eik4gTOJi0E">
+    <img src="https://img.youtube.com/vi/Eik4gTOJi0E/maxresdefault.jpg" width="700">
   </a>
 </p>
 
@@ -119,11 +119,12 @@ The final housing was built entirely from LEGO components.
 
 # Authors
 
-Nicolás Ospitia
-Catalina Muñoz
-Juan Esteban Rodríguez
+* Nicolás Ospitia
+
+* Catalina Muñoz
+
+* Juan Esteban Rodríguez
 
 
-Electronic Engineer
 
 Universidad de los Andes
